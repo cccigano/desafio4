@@ -1,0 +1,54 @@
+main {
+
+    font-family: 'Raleway', sans-serif;
+    font-family: 'Roboto', sans-serif;
+
+}
+
+.card-text {
+    color: #707070;
+}
+
+h6 {
+    color: #707070;
+}
+
+form {
+    text-align: center;
+    background-color: #198754;
+
+}
+
+.mb-3 {
+    margin: 20px;
+    padding: 5px;
+}
+
+h2 {
+    font-family: 'Raleway', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    color: #FFFFFF;
+    padding-top: 30px;
+    font-size: large;
+}
+
+footer {
+    text-align: center;
+    padding: 20px;
+
+}
+
+.final {
+    font-family: 'Raleway', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    color: #707070;
+}
+
+.boton {
+    padding: 20px;
+}
+.card-img-top {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
